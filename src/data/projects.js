@@ -19,7 +19,7 @@ export const PROJECTS = [
     title: "Hernando.Portfolio",
     description: "Hernando.portfolio is a professional digital business card focusing on Database Systems expertise. Featuring a clean dark mode design, the site immediately states his availability for opportunities and provides three key Calls to Action: Projects, Contact, and Download CV.",
     tags: ["React", "Tailwind", "Vite", "Java Script"],
-    links: {  repo: "https://github.com/hernando150605/my-portfolio" },
+    links: {  repo: "https://github.com/hernando150605/Hernando-portfolio" },
     images: ["/images/porto.png"],
   },
   {
