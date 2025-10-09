@@ -2,7 +2,7 @@ export const EXPERIENCES = [
 {
 role: "Internship Administrative Assistant ",
 company: "PT Kho Konstruksi Indonesia",
-period: "July — Sepetember 2024",
+period: "July — September 2024",
 points: [
 "Performed daily administrative tasks, including filing and data entry, to support smooth office operations.",
 "Coordinated with internal teams to ensure efficient workflow.",
